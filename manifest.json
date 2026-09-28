@@ -18,8 +18,8 @@
           "reference": false,
           "width": 1200,
           "height": 1700,
-          "image": "media/01-weekly.png",
-          "page": "plans/02_weekly_sheet.html"
+          "image": "media/01-weekly-v2.png",
+          "page": "plans/02_weekly_sheet_v2.html"
         },
         {
           "id": "01-checklist",

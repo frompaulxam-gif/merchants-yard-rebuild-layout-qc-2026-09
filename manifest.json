@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "code": "01",
+      "variants": [
+        {
+          "id": "01-large",
+          "label": "Large print",
+          "reference": false,
+          "width": 1200,
+          "height": 1700,
+          "image": "media/01-large.png",
+          "page": "plans/01_large_print_days.html"
+        },
+        {
+          "id": "01-weekly",
+          "label": "Weekly sheet",
+          "reference": false,
+          "width": 1200,
+          "height": 1700,
+          "image": "media/01-weekly.png",
+          "page": "plans/02_weekly_sheet.html"
+        },
+        {
+          "id": "01-checklist",
+          "label": "Tick-off list",
+          "reference": false,
+          "width": 1200,
+          "height": 1700,
+          "image": "media/01-checklist.png",
+          "page": "plans/03_tick_off_list.html"
+        }
+      ]
+    }
+  ]
+}

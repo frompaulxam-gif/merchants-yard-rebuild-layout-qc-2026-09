@@ -1,0 +1,1 @@
+const CONFIG={"id": "merchants-yard-rebuild-layout-qc-2026-09", "title": "Merchants Yard plan layouts", "store": "https://textdb.dev/api/data/myrebuildqc8d0f2c48fbbb468fb1"};
